@@ -2,7 +2,7 @@ OICS (Open Integrity Certification Standard)
 
 OICS establishes a fixed point of creation for digital assets.
 
-This repository contains canonical documents defining the system.
+This repository contains canonical records defining the system..
 
 ---
 
